@@ -11,7 +11,6 @@ A macOS-specific keymap for [Drop ALT](https://drop.com/buy/drop-alt-mechanical-
 1. `make massdrop/alt:alnguyen`
 1. Launch QMK Toolbox
 1. Open your newly compiled `massdrop_alt_alnguyen.hex`
-1. Put your dz60 in DFU mode: L3 + L2 + RESET `# based on current keymap -> (LSpc + RCmd + RBackspace)`
 1. Click the `Flash` button
 
 
