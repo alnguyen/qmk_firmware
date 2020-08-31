@@ -1,4 +1,4 @@
-# megalithic (megakeys)
+# alnguyen ALT keymap
 
 A macOS-specific keymap for [Drop ALT](https://drop.com/buy/drop-alt-mechanical-keyboard) configured in a standard 65% ANSI layout.
 
