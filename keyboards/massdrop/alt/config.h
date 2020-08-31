@@ -36,6 +36,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PA 0
 #define PB 1
 
+/* Unicode definition */
+#define UNICODE_SELECTED_MODES UC_MAC
+
 /* Port and Pin definition of key row hardware configuration */
 #define MATRIX_ROW_PORTS PA, PA, PA, PA, PA
 #define MATRIX_ROW_PINS   0,  1,  2,  3,  4
